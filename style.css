@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f5f2fb;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #e6e0f8;
+    padding: 20px;
+    text-align: center;
+}
+.tagline {
+    font-size: 1.2em;
+    font-style: italic;
+    margin-top: -10px;
+}
+nav a {
+    margin: 0 15px;
+    color: #5d3f92;
+    text-decoration: none;
+}
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: #ded2f4;
+}
